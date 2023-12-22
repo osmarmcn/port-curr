@@ -243,6 +243,27 @@ body{
     font-size: 14px;
 }
 
+.projetos{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 0;
+}
+
+.projeto-geral{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100vh;
+}
+
+.projeto-lista{
+    width: 300px;
+    height: 100px;
+    background-color: #8e0e0e;
+    
+}
 
 
 
